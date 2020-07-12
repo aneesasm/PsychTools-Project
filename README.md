@@ -12,6 +12,10 @@ Understand and specify context of use
       • The psychotherapy services provided
       • Veteran reported outcomes 
     3. Collecting this essential information provides the basis for a robust quality management system for quality assurance and quality improvement
+    4. Outcome feedback improves treatment outcomes 
+       •A meta-analysis of 6 major trials estimated that patients who were classified as ‘not on track’ during treatment were 2.3 times more likely to deteriorate in usual therapy, by comparison to therapy + Outcome Feedback 
+      • In published controlled trials, effect sizes favoring Outcome Feedback range between d = 0.2 and d = 0.9 
+      • Importantly, Outcome Feedback helps to prevent deterioration
 
   B. Project Goal:
  
