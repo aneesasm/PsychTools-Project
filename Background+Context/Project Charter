@@ -1,0 +1,14 @@
+File of goals of project (Project Charter)
+ - Tasks users need, risks of tasks
+    - Frequency, duration, impact of tasks
+      - Order by level of impact 
+  - User requirements
+    - Document contradictions of user requirements  if any
+    - Document costs, if any
+    - Document trade-offs between contradictions
+  - Current state metrics
+    - Metrics related to user requirements to measure future state 
+    - HOW to document and measure/track these metric goals
+  - Environment of system (physical, social, cultural)
+  - Constraints of project if known
+
