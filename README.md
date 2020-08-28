@@ -18,6 +18,7 @@ Understand and specify context of use
       • Importantly, Outcome Feedback helps to prevent deterioration
 
   B. Project Goal:
+  
      1. Develop Decision support tools to inform clinical judgement and improve Veteran outcomes 
      2. Identification of Veterans who are at increased risk for drop out, limited clinical benefit, or deterioration 
      3. Generation of practice-based evidence
