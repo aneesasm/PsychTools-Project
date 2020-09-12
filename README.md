@@ -3,7 +3,7 @@ PsychTools repository
 
 Understand and specify context of use
 
-  A. Current State/Baseline:
+  A. Project Motivation:
   
     1. There is no systematic means of tracking VA psychotherapy services or Veteran clinical responses
   
