@@ -1,4 +1,2 @@
-  - User requirements
-    - Document contradictions of user requirements  if any
-    - Document costs, if any
-    - Document trade-offs between contradictions
+  This file documents the user requirements, as well as any resolutions to contradictory requirements that may exist. 
+  The associated costs, rationale, factors, and trade-offs are are documented here.
