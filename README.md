@@ -17,7 +17,7 @@ Understand and specify context of use
       • In published controlled trials, effect sizes favoring Outcome Feedback range between d = 0.2 and d = 0.9 
       • Importantly, Outcome Feedback helps to prevent deterioration
 
-  B. Project Goal:
+  B. Project Goal(s):
   
      1. Develop Decision support tools to inform clinical judgement and improve Veteran outcomes 
      2. Identification of Veterans who are at increased risk for drop out, limited clinical benefit, or deterioration 
